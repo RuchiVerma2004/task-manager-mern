@@ -67,7 +67,5 @@ The server will run on `http://localhost:5000` and the client on `http://localho
 
 Feel free to contribute to this project by submitting pull requests.
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
